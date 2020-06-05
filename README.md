@@ -1,5 +1,5 @@
 # HNGi7-task-2
-fullname='Asogwa Chi-uba'
+fullname='Asogwa Chiuba'
 HNGID= 'HNG-02288'
 language='Python'
 email= 'ishiuba488@gmail.com'
